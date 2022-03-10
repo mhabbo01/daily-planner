@@ -1,5 +1,8 @@
 # Work Day Scheduler
 
+## Link to deployed application
+https://mhabbo01.github.io/daily-planner/ 
+
 ## User Story
 AS AN employee with a busy schedule
 I WANT to add important events to a daily planner
